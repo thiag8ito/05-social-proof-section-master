@@ -35,9 +35,9 @@ Nesse projeto consegui por em prática o que venho estudando. <br>
 Além de ter sido o primeiro no qual consegui implementar 2 variações de media query.
 
 
-```html
+
 <h1>Código que tenho orgulho nesse projeto</h1>
-```
+
 ```css
 .orgulho-de-css {
   background: url(../images/bg-pattern-top-desktop.svg) no-repeat, url(../images/bg-pattern-bottom-desktop.svg) no-repeat right bottom;
